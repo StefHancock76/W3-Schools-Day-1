@@ -20,7 +20,8 @@ form {color: chocolate;
         font-weight: 100;
         font-style: normal;}
 li {display: inline;
-    padding: 15px; 15px; 15px;}
+    padding: 15px;
+}
 
 img {
         border-radius: 10px;
